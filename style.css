@@ -13,7 +13,7 @@ body{
 
 
 .title p{
-	width: 58%;
+	width: 47%;
 }
 
 .p1{
@@ -21,10 +21,10 @@ body{
 	font-family: 'Rubik', sans-serif;
 	font-weight: 500;
    font-size: 32px;
-   background: -webkit-linear-gradient(left, #1be4dd, #fbca0c);
-   background: -o-linear-gradient(right, #1be4dd, #fbca0c);
-   background: -moz-linear-gradient(right, #1be4dd, #fbca0c);
-   background: linear-gradient(to right, #1be4dd, #fbca0c); 
+   background: -webkit-linear-gradient(left, #21bfc9 , #fddd2d);
+   background: -o-linear-gradient(right, #21bfc9 , #fddd2d);
+   background: -moz-linear-gradient(right, #21bfc9 , #fddd2d);
+   background: linear-gradient(to right, #21bfc9 , #fddd2d); 
 
    /*   background: linear-gradient(to right, #FF47E4 , #FFC61A); */
   -webkit-background-clip: text;
@@ -42,10 +42,10 @@ body{
 	font-family: 'Rubik', sans-serif;
 	font-weight: 400;
    font-size: 24px;
-   background: -webkit-linear-gradient(left, #21bfc9 , #fddd2d);
-   background: -o-linear-gradient(right, #21bfc9 , #fddd2d);
-   background: -moz-linear-gradient(right, #21bfc9 , #fddd2d);
-   background: linear-gradient(to right, #21bfc9 , #fddd2d); 
+   background: -webkit-linear-gradient(left, #21bfc9 , #FDDA0D);
+   background: -o-linear-gradient(right, #21bfc9 , #FDDA0D);
+   background: -moz-linear-gradient(right, #21bfc9 , #FDDA0D);
+   background: linear-gradient(to right, #21bfc9 , #FDDA0D); 
 
    /*   background: linear-gradient(to right, #FF47E4 , #FFC61A); */
   -webkit-background-clip: text;
@@ -58,11 +58,15 @@ body{
 	font-family: 'Rubik', sans-serif;
 	font-weight: 300;
    font-size: 28px;
-   background: -webkit-linear-gradient(left, #f99dc5, #7eb0ec);
+    background: -webkit-linear-gradient(left, #21bfc9 , #fddd2d);
+   background: -o-linear-gradient(right, #21bfc9 , #fddd2d);
+   background: -moz-linear-gradient(right, #21bfc9 , #fddd2d);
+   background: linear-gradient(to right, #21bfc9 , #fddd2d); 
+ /*  background: -webkit-linear-gradient(left, #f99dc5, #7eb0ec);
    background: -o-linear-gradient(right, #f99dc5, #7eb0ec);
    background: -moz-linear-gradient(right, #f99dc5, #7eb0ec);
    background: linear-gradient(to right, #f99dc5, #7eb0ec); 
-
+*/
    /*   background: linear-gradient(to right, #FF47E4 , #FFC61A); */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -98,7 +102,7 @@ body{
 }
 
 .pics p{
-	width: 39%;
+	width: 36%;
 }
 
 
@@ -134,8 +138,8 @@ body{
   bottom: 50px; 
   right: 27px; 
   z-index: 99; 
-  border: 2px solid #FF47BF;
-  color: #FF47BF;
+  border: 2px solid #1be4dd;
+  color: #1be4dd;
   cursor: pointer; 
   font-family: 'Rubik', sans-serif;
   font-weight: 400;
@@ -148,5 +152,5 @@ body{
 
 #myBtn:hover {
 	border: 2px solid #FF7E2E;
-	color: #FF7E2E; 
+	color: #FF7E2E;
 }
